@@ -1,5 +1,5 @@
 document.querySelector('#title').innerHTML = "Hotel California";
-document.querySelector('#slogan').innerHTML = "Such a Lovely Place";
+document.querySelector('#slogan').innerHTML = "Come to Stay";
 
 
 
