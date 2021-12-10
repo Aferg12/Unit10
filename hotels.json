@@ -1,0 +1,28 @@
+{
+    "hotels": [
+        {
+        "name": "ArloSoHo",
+        "rooms": "50", 
+        "gym": "yes",
+        "roomTypes": [" King", " Queen", " Double"],
+        "address": "278 California Ave",
+        "picture": "Room1.jpg"
+        },
+        {
+        "name": "YOTELNewYork",
+        "rooms": "200",
+        "gym": "no",
+        "roomTypes": [" Full Kitchen", " King", " Single"," Opptional Cot"],
+        "address": "4532 Purple Turtle",
+        "picture": "Room2.jpg"
+        },
+        {
+        "name": "Hilton",
+        "rooms": "75",
+        "gym": "yes",
+        "roomTypes": [" Luxury Suite", " Balcony View", " Queen", " 2 Double Beds"],
+        "address": "6382 Lucky Street",
+        "picture": "Room3.jpeg"
+        }
+    ]
+}
